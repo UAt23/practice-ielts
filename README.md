@@ -1,8 +1,8 @@
-# React + Vite
+# Practive IELTS Reading 
+You just copy paste the reading paragraph and some screenshots of the question related and try to solve it.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**Go to add:**
+-Countdown timer
+-More than one reading paragraph and switching between them (at the same time with the questions).
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+practice-ielts.vercel.app
